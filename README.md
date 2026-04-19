@@ -28,7 +28,7 @@ Unlike projects using pre-made datasets, this system was built using a **handcra
 
 2. **Preprocess Raw Data:**
 Standardize your manually captured images by running:
-```bash
+   ```bash
    python prossesing.py --in_dir ./raw_data --out_dir ./dataset
 
 3. **Train & Evaluate:**
